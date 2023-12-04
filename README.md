@@ -45,7 +45,7 @@ To get started with the solution, follow these steps:
 4. Access the API to retrieve stock analysis data.
 
 ## Acknowledgments
- For any inquiries or feedback, please contact Jean Claude Nshimiyimana at jeanclaude.nshimiyimana@aims.ac.rw.
+ For any inquiries or feedback, please contact me at jeanclaude.nshimiyimana@aims.ac.rw.
 
 ---
 *Note: This README and it's advisable to include information on how to install dependencies and run the application, as well as any specific requirements*
